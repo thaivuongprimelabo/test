@@ -12,6 +12,6 @@ class TestController extends Controller
     	
     }
     public function update(Request $request) {
-    	
+    	$b = 1;
     }
 }
