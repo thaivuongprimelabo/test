@@ -11,7 +11,7 @@ class TestController extends Controller
     public function index(Request $requst) {
     	
     }
-    public function create(Request $request) {
+    public function update(Request $request) {
     	
     }
 }
